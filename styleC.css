@@ -1,0 +1,17 @@
+.comidas {
+  background-color: blueviolet;
+  color: chartreuse;
+}
+.comidas .comidas_lista {
+  border: 1px solid black;
+  padding: 50px;
+}
+.comidas .titulo {
+  color: burlywood;
+  font-family: fantasy;
+}
+.comidas button {
+  background-color: skyblue;
+}
+
+/*# sourceMappingURL=styleC.css.map */

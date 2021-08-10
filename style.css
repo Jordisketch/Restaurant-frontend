@@ -1,0 +1,27 @@
+.clientes {
+  padding: 20px;
+  background-color: burlywood;
+  width: 1000px;
+}
+.clientes h1 {
+  font-family: fantasy;
+}
+.clientes button {
+  border: none;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+.clientes button:hover {
+  background-color: white;
+}
+.clientes span {
+  font-size: 25px;
+}
+.clientes .clientes_lista {
+  color: black;
+  border: 2px solid white;
+  padding: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
